@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3FE4477Fc24adbE0D9Ab4A2B7853E2A3F8440Bed",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3FE4477Fc24adbE0D9Ab4A2B7853E2A3F8440Bed",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Pirates",
+  "SYMBOL": "CPRT",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecryptopirates",
+  "SHOW_BACKGROUND": true
+}
